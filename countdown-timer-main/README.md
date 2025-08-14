@@ -30,7 +30,7 @@ A simple, clean countdown timer web application created using HTML, CSS, and Jav
 
 ## 👤 Submitted by
 
-**Name:** Bungpurlu Basumatary  
+**Name:** santanukoushikdas 
 **Program:** Web Development Internship  
 **Date:** July 2025
 
@@ -49,4 +49,4 @@ A simple, clean countdown timer web application created using HTML, CSS, and Jav
 ## 📄 License
 
 This project is for educational and internship purposes only.  
-© 2025 Bungpurlu Basumatary
+
